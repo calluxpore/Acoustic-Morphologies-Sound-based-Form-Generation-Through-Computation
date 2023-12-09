@@ -53,7 +53,7 @@
 To use this project:
 
 1. Ensure all required software and plugins are installed.
-2. Open the provided .rhi file in rhinoceros 7 or later
+2. Open the provided .3dm file in rhinoceros 7 or later
 3. Open the provided .gh file in grasshopper with Rhinoceros 7 or later.
 4. Connect your microphone and begin the audio capture.
 5. Experiment with the parameters to explore different visual outcomes.
