@@ -3,6 +3,10 @@
 ## Project Overview
 "Acoustic Morphologies: Sound-based Form Generation Through Computation " is an interdisciplinary research project that blends auditory and visual experiences through computational design. Developed at OCAD University, this project focuses on transforming sound into visual forms using a suite of software tools including Rhinoceros 3D, Grasshopper, and various extensions. The aim is to bridge the gap in sensory integration within creative contexts by capturing live audio, processing it, and converting it into digital geometries which can be 3D Printed.
 
+## Video
+[https://vimeo.com/878351862?share](https://vimeo.com/878351862?share)
+
+
 ## Author and Contact Information
 
 - **Author:** K. Samarth Reddy
@@ -10,7 +14,6 @@
 - **Course:** DGIF – 5006 - NIME
 - **Address:** 205 Richmond St W, Toronto, ON M5V 1V3
 - **Email:** samarthreddy@ocadu.ca
-
 
 
 ## Technical Framework
@@ -29,6 +32,8 @@
 5. Catmull Smoothness: Polishing the final geometry for visualization.
 6. Baking Geometry: Finalizing the geometry with all attributes for further use.
 7. Preparation for 3D Printing: Sorting and orienting the geometry for printing.
+
+<img src="algorithm.png" alt="Algorithm" style="border-radius: 10px;">
 
 ## Hardware Requirements:
 
