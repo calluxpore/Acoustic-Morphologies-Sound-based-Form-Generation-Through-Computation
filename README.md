@@ -16,12 +16,26 @@
 - **Email:** samarthreddy@ocadu.ca
 
 
+## System Diagram
+<img src="diagram.png" alt="Algorithm" style="border-radius: 10px;">
+
 ## Technical Framework
 ### Software Tools:
 
 - Rhinoceros 3D
 - Grasshopper 3D
 - Extensions: Firefly, WeaverBird, Elefront, Heliotrope, Mosquito, Human, Bifocals, Moonlight
+
+## Hardware Requirements:
+
+1. Microphone for real-time audio capture.
+2. Computer with adequate processing power and memory.
+
+## Technical Expertise:
+
+1. Knowledge in parametric and computational design principles.
+2. Proficiency in audio production tools.
+3. Experience with Rhino, Grasshopper, and related extensions.
 
 ## Workflow:
 
@@ -34,17 +48,6 @@
 7. Preparation for 3D Printing: Sorting and orienting the geometry for printing.
 
 <img src="algorithm.png" alt="Algorithm" style="border-radius: 10px;">
-
-## Hardware Requirements:
-
-1. Microphone for real-time audio capture.
-2. Computer with adequate processing power and memory.
-
-## Technical Expertise:
-
-1. Knowledge in parametric and computational design principles.
-2. Proficiency in audio production tools.
-3. Experience with Rhino, Grasshopper, and related extensions.
 
 ## Usage
 To use this project:
