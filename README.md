@@ -8,6 +8,10 @@
 
 [https://vimeo.com/892909588?share](https://vimeo.com/892909588?share)
 
+## Full Paper
+
+[Project Documentation PDF](docs/Acoustic%20Morphologies.pdf).
+
 ## Author and Contact Information
 
 - **Author:** K. Samarth Reddy
