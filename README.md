@@ -10,7 +10,7 @@
 
 ## Full Paper
 
-[Project Documentation PDF](docs/Acoustic%20Morphologies.pdf).
+[Project Documentation PDF](Acoustic%20Morphologies.pdf)
 
 ## Author and Contact Information
 
