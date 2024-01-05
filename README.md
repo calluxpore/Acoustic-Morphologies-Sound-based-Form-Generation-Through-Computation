@@ -1,9 +1,11 @@
 # Acoustic-Morphologies-Sound-based-Form-Generation-Through-Computation
 
 ## Project Overview
+
 "Acoustic Morphologies: Sound-based Form Generation Through Computation " is an interdisciplinary research project that blends auditory and visual experiences through computational design. Developed at OCAD University, this project focuses on transforming sound into visual forms using a suite of software tools including Rhinoceros 3D, Grasshopper, and various extensions. The aim is to bridge the gap in sensory integration within creative contexts by capturing live audio, processing it, and converting it into digital geometries which can be 3D Printed.
 
 ## Performance Video
+
 [https://vimeo.com/892909588?share](https://vimeo.com/892909588?share)
 
 ## Author and Contact Information
@@ -14,11 +16,12 @@
 - **Address:** 205 Richmond St W, Toronto, ON M5V 1V3
 - **Email:** samarthreddy@ocadu.ca
 
-
 ## System Diagram
+
 <img src="diagram.png" alt="Algorithm" style="border-radius: 10px;">
 
 ## Technical Framework
+
 ### Software Tools:
 
 - Rhinoceros 3D
@@ -49,6 +52,7 @@
 <img src="algorithm.png" alt="Algorithm" style="border-radius: 10px;">
 
 ## Usage
+
 To use this project:
 
 1. Ensure all required software and plugins are installed.
@@ -59,6 +63,7 @@ To use this project:
 6. Use the button 'Bake' function to finalize and export the geometry for 3D printing or other applications.
 
 ## Applications
+
 This project can be used for:
 
 1. Real-time and pre-rendered audio visualizations. (Install Mosquito Extension)
@@ -66,9 +71,11 @@ This project can be used for:
 3. Creative explorations in art and design.
 
 ## Conclusion and Future Work
+
 This project demonstrates the potential of computational design in creating tangible art forms from auditory experiences. Future developments may include more complex applications, interactive installations, and educational tools along with forms to sound research.
 
 ## Acknowledgements
+
 Special thanks to Professor Adam Tindale of the Faculty of Arts & Science at OCAD University for his invaluable guidance and support throughout the development of this project. His expertise and insights have been instrumental in shaping the direction and success of this project.
 
 ---
